@@ -1,0 +1,29 @@
+{
+  "product_name": "SmartPhone X Pro",
+  "category": "Electronics",
+  "brand": "TechMobile",
+  "price": 799.99,
+  "description": "The SmartPhone X Pro is the latest in mobile technology, featuring a 6.7-inch OLED display, 12GB RAM, and a 5000mAh battery. It offers a seamless user experience and an advanced camera system.",
+  "release_date": "2025-03-01",
+  "specifications": {
+    "screen_size": "6.7 inches",
+    "processor": "Snapdragon 888",
+    "camera": "108MP + 16MP Dual Camera",
+    "battery": "5000mAh",
+    "storage_options": ["128GB", "256GB", "512GB"]
+  },
+  "availability": "Available for pre-order",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "reviewer": "Jane Doe",
+      "rating": 5,
+      "comment": "Amazing phone! The camera quality is unmatched."
+    },
+    {
+      "reviewer": "Mark Lee",
+      "rating": 4,
+      "comment": "Great phone but a bit pricey."
+    }
+  ]
+}
